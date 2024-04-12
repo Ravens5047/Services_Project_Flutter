@@ -1,16 +1,30 @@
-# capstone2_clean_house
+# Clean House Services Flutter
 
-A new Flutter project.
+*****Screen*****
+<img src="https://imgur.com/a/s4WqH7j.png" alt="SCREEN1" />
 
-## Getting Started
+<img src="https://imgur.com/a/0EGcSjK.pmg" alt="SCREEN2" />
 
-This project is a starting point for a Flutter application.
+<img src="https://imgur.com/a/PEDNwFv.pmg" alt="SCREEN3" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://imgur.com/a/Anjd0Lk.pmg" alt="SCREEN4" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://imgur.com/a/vNgWeSa.pmg" alt="SCREEN5" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://imgur.com/a/mLmWSZ1.png" alt="SCREEN6" />
+
+<img src="https://imgur.com/a/B58dDhR.png" alt="SCREEN7" />
+
+<img src="https://imgur.com/a/kR5QLRK.png" alt="SCREEN8" />
+
+<img src="https://imgur.com/a/bHyG87W.png" alt="SCREEN9" />
+
+<img src="https://imgur.com/a/h9vA5rN.png" alt="SCREEN10" />
+
+<img src="https://imgur.com/a/lkbMOAk.png" alt="SCREEN11" />
+
+<img src="https://imgur.com/a/PoZB1W1.png" alt="SCREEN12" />
+
+<img src="https://imgur.com/a/hgAAQ7b.png" alt="SCREEN13" />
+
+<img src="https://imgur.com/a/9CrRX76.png" alt="SCREEN14" />
